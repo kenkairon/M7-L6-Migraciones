@@ -1,9 +1,6 @@
 # M7-L6-Migraciones
 Educativo y de Aprendizaje Personal
 
-# M7-L4-ClavesPrimariasCRUD-Parte2
-Educativo y de Aprendizaje Personal
-
 ---
 ## Tabla de Contenidos
 - [Tecnologías](#Tecnologías)
