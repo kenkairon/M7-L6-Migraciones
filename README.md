@@ -121,7 +121,7 @@ Educativo y de Aprendizaje Personal
         path('', include('modelos.urls')),
     ]
 
-16. modelos/urls.py
+15. modelos/urls.py
     ```bash
     from django.urls import path
     from . import views
@@ -129,6 +129,6 @@ Educativo y de Aprendizaje Personal
     urlpatterns = [
         path('', views.index, name='index'),
     ]
-17. Nos Vamos http://127.0.0.1:8000/ 
+16. Nos Vamos http://127.0.0.1:8000/ 
     ```bash
     python manage.py runserver
